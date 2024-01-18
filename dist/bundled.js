@@ -1,0 +1,1 @@
+(()=>{"use strict";kintone.events.on("app.record.index.show",(function(n){const o=n.record;return console.log(o),n}))})();
